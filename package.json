@@ -38,7 +38,8 @@
     "incasse",
     "banktransfer",
     "banking",
-    "paysafecard"
+    "paysafecard",
+    "sofort"
   ],
   "author": "Renzo Roso <renzo@geex.company>",
   "license": "GPL-3.0",
